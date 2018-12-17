@@ -1,0 +1,25 @@
+{
+  "name": "19.5.Refaktoryzacja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajerMonika/19.5.Refaktoryzacja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MajerMonika/19.5.Refaktoryzacja/issues"
+  },
+  "homepage": "https://github.com/MajerMonika/19.5.Refaktoryzacja#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
